@@ -53,7 +53,7 @@ export const WalletScreen: React.FC = () => {
               <div className="card-details">
                 <div className="detail-item">
                   <span className="label">CARD HOLDER</span>
-                  <span className="value">SHITOSH S.</span>
+                  <span className="value">Trader</span>
                 </div>
                 <div className="detail-item">
                   <span className="label">VALID THRU</span>

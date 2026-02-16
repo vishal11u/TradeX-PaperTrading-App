@@ -160,7 +160,7 @@ export default function MainLayout({
               <div className="user-avatar">
                 <User size={18} />
               </div>
-              <span className="user-name">Shitosh S.</span>
+              <span className="user-name">Trader</span>
             </Link>
           </div>
         </nav>

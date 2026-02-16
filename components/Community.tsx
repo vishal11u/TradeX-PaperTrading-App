@@ -30,7 +30,7 @@ export const Community: React.FC = () => {
     if (!newPost.trim()) return;
     addCommunityPost({
       userId: "me",
-      userName: "Shitosh S.",
+      userName: "Trader",
       type: "THOUGHT",
       content: newPost,
     });

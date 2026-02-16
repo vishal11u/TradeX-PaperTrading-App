@@ -85,7 +85,7 @@ export const Profile: React.FC = () => {
             </button>
           </div>
           <div className="profile-basic-info">
-            <h1>Shitosh S.</h1>
+            <h1>Trader</h1>
             <div className="profile-badges">
               <span className="badge-pro">PRO USER</span>
               <span className="badge-id">ID: TX-2026-990</span>
